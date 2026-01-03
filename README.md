@@ -52,7 +52,7 @@ This repository contains two production-ready NetSuite Restlet scripts for retri
 
 ## Script 1: Metadata Retrieval
 
-**File:** `getAnalyticsMetadata_RS.js`
+**File:** [getAnalyticsMetadata_RS.js](https://github.com/chandana-solenex/ns-analytics-datapull/blob/main/getAnalyticsMetadata_RS.js)
 
 ### Purpose
 Retrieves summary metadata about a Saved Search or Dataset without pulling actual data. Use this to:
@@ -136,7 +136,7 @@ GET https://[account-id].suiteapis.com/rest/script/[script-id]/deploy/[deploy-id
 
 ## Script 2: Data Retrieval
 
-**File:** `getAnalyticsData_RS.js`
+**File:** [getAnalyticsData_RS.js](https://github.com/chandana-solenex/ns-analytics-datapull/blob/main/getAnalyticsData_RS.js)
 
 ### Purpose
 Fetches actual data rows from a Saved Search or Dataset as JSON objects with sanitized column keys. Designed for direct integration with:
