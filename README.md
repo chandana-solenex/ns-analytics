@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains two production-ready NetSuite Restlet scripts for retrieving metadata and analytical data from NetSuite Saved Searches and SuiteAnalytics Datasets. These scripts enable seamless integration with external systems—such as Google Sheets, Tableau, Power BI, or custom applications—providing dynamic, paginated access to NetSuite analytics without manual export/import workflows.
+This repository contains two production-ready NetSuite Restlet scripts for retrieving metadata and analytical data from NetSuite Saved Searches and SuiteAnalytics Datasets. These scripts enable seamless integration with external systems such as Tableau, Power BI, or custom applications providing dynamic, paginated access to NetSuite analytics without manual export/import workflows.
 
 **Key Features:**
 - Support for both **Saved Searches** and **SuiteAnalytics Datasets**
