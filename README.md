@@ -501,7 +501,7 @@ Verify your consuming application matches sanitized keys.
 
 ## Support & Contribution
 
-**Issues or questions?** Contact **Solenex Technology** or open an issue in the repository.
+**Issues or questions?** Contact [**Solenex Technology**](mailto:support@solenex.com) or open an issue in the repository.
 
 **Contributing:** Pull requests welcome. Please follow:
 - SuiteScript 2.1 conventions
